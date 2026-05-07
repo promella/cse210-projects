@@ -4,11 +4,11 @@
     "configurations": [
 
         {
-            "name": "Sandbox Project",
+   one         "name": "Sandbox Project",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-sandbox-Sandbox",
-            "program": "${workspaceFolder}/sandbox/Sandbox/bin/Debug/net10.0/Sandbox.dll",
+            "program": "dotnet\",
             "args": [],
             "cwd": "${workspaceFolder}/sandbox/Sandbox",
             "console": "integratedTerminal",
@@ -73,7 +73,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-week01-Exercise5",
-            "program": "${workspaceFolder}/week01/Exercise5/bin/Debug/net10.0/Exercise5.dll",
+            "program": "dotnet",
             "args": [],
             "cwd": "${workspaceFolder}/week01/Exercise5",
             "console": "integratedTerminal",
