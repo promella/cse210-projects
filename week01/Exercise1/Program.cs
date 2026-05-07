@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        //ask tthe user for their first and last name and then display the name in the format of last, first last
         Console.WriteLine("Hello World! This is the Exercise3 Project.");
 
         Console.WriteLine("What is your first name?");

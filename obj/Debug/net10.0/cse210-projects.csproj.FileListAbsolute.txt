@@ -1,0 +1,5 @@
+C:\Users\pc\cse210\cse210-projects\obj\Debug\net10.0\cse210-projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\cse210\cse210-projects\obj\Debug\net10.0\cse210-projects.AssemblyInfoInputs.cache
+C:\Users\pc\cse210\cse210-projects\obj\Debug\net10.0\cse210-projects.AssemblyInfo.cs
+C:\Users\pc\cse210\cse210-projects\obj\Debug\net10.0\cse210-projects.csproj.CoreCompileInputs.cache
+C:\Users\pc\cse210\cse210-projects\obj\Debug\net10.0\cse210-projects.sourcelink.json
