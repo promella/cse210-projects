@@ -2,13 +2,26 @@
 {
     "version": "0.2.0",
     "configurations": [
+        
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        
 
         {
-   one         "name": "Sandbox Project",
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+
+        {
+            "name": "Sandbox Project",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build-sandbox-Sandbox",
-            "program": "dotnet\",
+            "preLaunchTask": "build Sandbox",
+            "program": "dotnet",
             "args": [],
             "cwd": "${workspaceFolder}/sandbox/Sandbox",
             "console": "integratedTerminal",

@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! This is the Exercise1 Project.");
+        int number = 0;
+
+        number = number + 3;
+
+        Console.WriteLine(number);
     }
 }
