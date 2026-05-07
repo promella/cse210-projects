@@ -1,13 +1,17 @@
-using System;
+﻿using System;
 
 class Program
 {
     static void Main(string[] args)
     {
-        int number = 0;
+        Console.WriteLine("Hello World! This is the Exercise3 Project.");
 
-        number = number + 3;
+        Console.WriteLine("What is your first name?");
+        string first = Console.ReadLine();
 
-        Console.WriteLine(number);
+        Console.WriteLine("What is your last name?");
+        string last = Console.ReadLine();
+
+        Console.WriteLine($"your first and last name is {last},{first} {last}");
     }
 }
